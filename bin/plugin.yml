@@ -1,0 +1,11 @@
+name: AfkPlugin
+main: net.nocpiun.plugin.afkplugin.AfkPluginMain
+version: 1
+author: NriotHrreion
+commands:
+  afk:
+    description: "Away from keyboard"
+    usage: "/<command>"
+  suicide:
+    description: "Kill yourself"
+    usage: "/<command>"
